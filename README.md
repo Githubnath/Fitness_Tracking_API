@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://github.com/Githubnath/personal-management-system/blob/main/public/logo-small.png?raw=true" width="100px"/>
-</p>
 
 <h1 align="center">Fitness Tracking API</h1>
 <p align="center"><i>Your best API  for managing fitness related data <br> (A user-friendly API).</i></p>
@@ -30,12 +27,26 @@ By offering a standardized and efficient way to access and manage fitness data, 
 
 <p align="justify">
     1.	User Empowerment: Such an API empowers users to take control of their fitness journey. It allows them to record and monitor their workouts, making it easier to set and achieve fitness goals.
+
+
 2.	Customization: Users can create personalized workout routines by adding specific exercises, repetitions, and sets tailored to their fitness objectives. This level of customization enhances the effectiveness of their training.
+
+
 3.	Progress Tracking: Users can track their progress over time, which is essential for motivation and goal attainment. The API can generate visual representations of their improvements, such as charts or graphs, making it easier to see the results of their hard work.
+
+
 4.	Consistency: Users can maintain consistency in their fitness routines by having a digital record of their workouts. This minimizes the risk of forgetting exercises or losing track of their training history.
+
+
 5.	Data-Driven Decision-Making: The API can provide insights into the effectiveness of different exercises and workout routines. Users can make data-driven decisions to optimize their training strategies and maximize their results.
+
+
 6.	Accountability: Users can share their workout data with trainers, friends, or workout buddies, fostering a sense of accountability and support within their fitness community.
+
+
 7.	Accessibility: The API ensures that users can access their workout data from various devices, including mobile apps and websites, making it convenient to record and review their progress wherever they go.
+
+
 8.	Integration: It can integrate with wearable fitness devices and other fitness apps, streamlining the process of data input and making the user experience seamless.
 </p>
 
