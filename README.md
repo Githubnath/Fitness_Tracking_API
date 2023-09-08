@@ -142,14 +142,7 @@ PUT /exercises/{id}/: Updates a specific exercise.
 
 DELETE /exercises/{id}/: Deletes a specific exercise.
 
-<p>
-<b> In both cases it's explicitly required to install composer dependencies at first! </b>
 </p>
-
-<ul>
-    <li><b>For standard installation call:</b> <pre>composer pms-installer</pre></li>
-    <li><b>For installation from within docker usage call:</b> <pre>composer pms-installer-docker</pre></li>
-</ul>
 
 <h2>Future development plans</h2>
 
