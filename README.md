@@ -160,25 +160,15 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 <i>
 </p>
 
-<h2>Tech</h2>
-<p style="text-align:justify;">
-    Personal Management System is a web application which can be ran either in Windows and Linux enviroment. Everything is by default tested on Ubuntu 20.x.
-</p>
-
-<h3>Used languages/frameworks/solutions</h3>
+<h3>Technologies Used</h3>
 
 <ul>
-<li>Php 7.4.x</li>
-<li>JS</li>
-<li>JQ</li>
-<li>TypeScript (as from v1.3)</li>
-<li>Symfony 5.x</li>
-<li>MySQL</li>
-<li>Css</li>
-<li>Scss</li>
-<li>Node 14.17.x</li>
-<li>Bootstrap</li>
-<li>Webpack</li> <small>(module bundler)</small></li>
+<li>Django: As the core web framework for API development</li>
+<li>Django REST framework: For building RESTful APIs efficiently</li>
+<li>SQLite: For database storage and management</li>
+<li>Postman: To test API endpoints during development</li>
+<li>Git: Version control for collaborative development
+</li>
 </ul>
 
 <h3>Used packages</h3>
@@ -186,11 +176,6 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 <li><a href="https://github.com/krzysiekpiasecki/Symfonator">Symfonator</a> <small>(Ui)</small></li>
 <li><a href="https://github.com/mogilvie/EncryptBundle">EncryptBundle</a> <small>(Core for passwords module)</small></li>
 <li><a href="https://github.com/furcan/IconPicker">Icon Picker</a> <small>(Icon picker for Notes module)</small></li>
-<li><a href="https://github.com/makeusabrew/bootbox">Bootbox</a> (<small>Additional safety confirmations for CRUD</small>)
-</li>
-<li><a href="https://github.com/mbezhanov/faker-provider-collection">Faker Provider Collection</a> <small>(<a href="https://github.com/fzaninotto/faker">Faker</a> extension)</small></li>
-<li><a href="https://github.com/EastDesire/jscolor">JsColor</a> (<small>Color pickers for Notes module</small>)</li>
-<li>... bootstrap, TinyMce, DataTables and many others</li>
 </ul>
 
 <h2>Special thanks to</h2>
