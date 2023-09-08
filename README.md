@@ -29,11 +29,18 @@ By offering a standardized and efficient way to access and manage fitness data, 
 <hr>
 
 <p align="justify">
-    I decided to create my own system, because playing around with tons of plugins for WordPress and writing customizations to some existing CRMs would take me as much time as writing my own system and by knowing the logic from its core it's easier for me to write extensions and add additional modules - whatever I need.
+    1.	User Empowerment: Such an API empowers users to take control of their fitness journey. It allows them to record and monitor their workouts, making it easier to set and achieve fitness goals.
+2.	Customization: Users can create personalized workout routines by adding specific exercises, repetitions, and sets tailored to their fitness objectives. This level of customization enhances the effectiveness of their training.
+3.	Progress Tracking: Users can track their progress over time, which is essential for motivation and goal attainment. The API can generate visual representations of their improvements, such as charts or graphs, making it easier to see the results of their hard work.
+4.	Consistency: Users can maintain consistency in their fitness routines by having a digital record of their workouts. This minimizes the risk of forgetting exercises or losing track of their training history.
+5.	Data-Driven Decision-Making: The API can provide insights into the effectiveness of different exercises and workout routines. Users can make data-driven decisions to optimize their training strategies and maximize their results.
+6.	Accountability: Users can share their workout data with trainers, friends, or workout buddies, fostering a sense of accountability and support within their fitness community.
+7.	Accessibility: The API ensures that users can access their workout data from various devices, including mobile apps and websites, making it convenient to record and review their progress wherever they go.
+8.	Integration: It can integrate with wearable fitness devices and other fitness apps, streamlining the process of data input and making the user experience seamless.
 </p>
 
 <p align="justify">
-    Secondly, there is no system like that, and I didn't wanted to end up integrating a docker based cloud with CMS. Furthermore I just need an application like that to keep organized and I'm tired of having some very personal data on OneDrive, other data on Google cloud, some notes here, and some notes there. The end goal is to have an application running on terminal or raspberry 24/7 plugged into my home network, without access to internet.
+    Furthermore,  building a fitness tracking API with Django focused on workout tracking, exercise management, and progress monitoring empowers users to take charge of their fitness journeys. It provides customization, data-driven insights, and accessibility, all contributing to more effective and enjoyable workouts, as well as facilitating research in the fitness and healthcare domains.
 </p>
 
 <h3>Preview</h3>
