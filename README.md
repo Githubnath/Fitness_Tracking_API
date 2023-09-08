@@ -148,7 +148,7 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 
 <h3>Improvements</h3>
 <p>
-	<i>Overally I will just add some bug fixes/improvements/modules from time to time - anything that I will just need.</i>
+	<i> Generally,  I will just add some bug fixes/improvements from time to time - anything that I will just need.</i>
 </p>	
 <hr>
 <h3>Contributing</h3>
@@ -157,28 +157,6 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 <a href="https://github.com/Githubnath/Personal-management-system/blob/main/CONTRIBUTING.md">guidelines for contributing</a
 <i>
 </p>
-<hr>
-
-<h2>Support</h2>
-
-<p align="justify">
-    I cannot guarantee support. I've got a job, personal things etc, I'm just sharing my code/my application as MIT. However feel totally free to ask about something, write issues etc. As mentioned I'm using and I will use this application from now on daily so there might be some changes even good for me.
-</p>
-
-<p align="justify">
-    As I'm working on it there will be some fixes, and new modules in future when I reach the point when I got all I need. So after reaching my goal I could handle some support requests if anyone will be interested.
-</p>
-
-<h3>Browsers Support</h3>
-<ul>
-	<li>Chrome</li>
-</ul>
-
-<p>
-	I mean for real. Just <b>Chrome</b>. I know about bug with copying password in Firefox for example. But I just do everything in Chrome so I'm not really planning to check that on other browsers. And before You ask why I only support chrome - I don't do it because of "chrome is the best" or anything like that, I just use that browser for 98% of time and that's just it.
-</p>
-
-<hr>
 
 <h2>Tech</h2>
 <p style="text-align:justify;">
