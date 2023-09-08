@@ -94,8 +94,10 @@ The purpose of building this fitness tracking API with Django is to provide a st
 
 <h2>Installation</h2>
 
-Clone the repository to your local machine. git clone https://github.com/your-username/fitness-tracking-api.git
+Clone the repository to your local machine. git clone https://github.com/your-username/Fitness_Tracking-trackii
+.git
 
+Clone the repository to your local machine. git clone https://github.com/your-username/Fitness_Tracking_API.git
 Set up the database.
 
 python manage.py makemigrations
