@@ -197,6 +197,14 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
         <li><a href="https://www.linkedin.com/mwlite/in/nathaniel-emenike">Emenike Nathaniel</a> - Author's  Linkedin
 </ul>
 
+
+<h3>Twitter</h3>
+
+<ul>
+        <li><a href="https://www.twitter.com/EngrNath3">Emenike Nathaniel</a> - Author's  Twitter Handle
+</ul>
+
+
 <h3>Blog</h3>
 
 <ul>
