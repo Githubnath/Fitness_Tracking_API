@@ -2,14 +2,13 @@
 <img src="https://github.com/Githubnath/personal-management-system/blob/main/public/logo-small.png?raw=true" width="100px"/>
 </p>
 
-<h1 align="center"> Personal Management System</h1>
+<h1 align="center">Fitness Tracking API</h1>
 <p align="center"><i>Your central point for managing personal data <br> (if current modules allow to do that).</i></p>
 
-<h3>Documentation/ Demo</h3>
+<h3>Demo</h3>
 <hr>
 
 <ul>
-<li><b>Documentation</b> - available <a href="https://githubnath.github.io//"><b>here</b></a></li>
 <li><b>Demo</b> - click <a href="https://emenikenath.com.ng"><b>here </b></a>
 <ul>
 <li><b>Login:</b> admin</li>
@@ -21,7 +20,11 @@
 <h3>Description</h3>
 <hr>
 <p align="justify">
-	It's easier to understand this web application when you think about a CMS (WordPress) or CRM (SugarCRM); the logic behind this system is very similar to those two. My PMS may offer fewer possibilities than those systems above, but it just does what I want it to do. Additionally, writing extensions is not too hard, depending on the logic required. Anyone with development knowledge can pretty much write their own extensions for personal needs.
+	The Fitness Tracking API  project intend  to develop  a user-friendly fitness tracking API using the Django framework. 
+
+This API will provide a comprehensive set of endpoints that allow users to track and manage their fitness-related data, such as creating and managing workouts, adding exercises to workouts, and tracking their progress over time.
+
+By offering a standardized and efficient way to access and manage fitness data, the API will empower developers to create a wide range of fitness applications and services.
 </p>
 
 <h3>Reasoning/Purpose</h3>
@@ -48,7 +51,7 @@
 
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
 
-<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/githubnath_avatar.jpg">
+<img src="https:// >
 
 <h3>Available options and modules</h3>
 <hr>
