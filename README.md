@@ -50,8 +50,6 @@ The purpose of building this fitness tracking API with Django is to provide a st
 
 7.	Accessibility: The API ensures that users can access their workout data from various devices, including mobile apps and websites, making it convenient to record and review their progress wherever they go.
 
-
-8.	Integration: It can integrate with wearable fitness devices and other fitness apps, streamlining the process of data input and making the user experience seamless.
 </p>
 
 <p align="justify">
@@ -67,11 +65,6 @@ The purpose of building this fitness tracking API with Django is to provide a st
 
 <img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview3.png">
 
-<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview1.png">
-
-<img src="https://github.com/Githubnath/Personal-management-system/blob/main/src/assets/static/images/preview2.png">
-
-<img src="https:// >
 
 <h3>Available options and modules</h3>
 <hr>
@@ -99,9 +92,55 @@ The purpose of building this fitness tracking API with Django is to provide a st
     <li><b>📑 Reports</b> - <span align="justify"><i>contains readonly reports created from already existing data in database</i></span> </li><br/>		
 </ol>
 
-<h2>How to install/documentation</h2>
+<h2>Installation</h2>
 
-<h3> Linux installer </h3>
+Clone the repository to your local machine. git clone https://github.com/your-username/fitness-tracking-api.git
+
+Set up the database.
+
+python manage.py makemigrations
+
+python manage.py migrate
+
+Create a superuser.
+python manage.py createsuperuser
+
+Run the development server.
+python manage.py runserver
+
+The API will be accessible at http://localhost:8000/ by default.
+
+<h2>Usage </h2>
+
+<h3>Authentication</h3>
+
+To access the API endpoints, you need to authenticate using the token authentication method. You can obtain a token by sending a POST request to the /api-token-auth/ endpoint with your username and password in the request body. The API will respond with a token that you can use to authenticate subsequent requests.
+
+<h3>Endpoints</h3>
+
+<h4>Workouts</h4>
+
+GET /workouts/: Returns a list of all workouts.
+
+POST /workouts/: Creates a new workout.
+
+GET /workouts/{id}/: Returns the details of a specific workout.
+
+PUT /workouts/{id}/: Updates a specific workout.
+
+DELETE /workouts/{id}/: Deletes a specific workout.
+
+<h4>Exercises</h4>
+
+GET /exercises/: Returns a list of all exercises.
+
+POST /exercises/: Creates a new exercise.
+
+GET /exercises/{id}/: Returns the details of a specific exercise.
+
+PUT /exercises/{id}/: Updates a specific exercise.
+
+DELETE /exercises/{id}/: Deletes a specific exercise.
 
 <p>
 <b> In both cases it's explicitly required to install composer dependencies at first! </b>
