@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Fitness Tracking API</h1>
-<p align="center"><i>Your central point for managing personal data <br> (if current modules allow to do that).</i></p>
+<p align="center"><i>Your best API  for managing fitness related data <br> (A user-friendly API).</i></p>
 
 <h3>Demo</h3>
 <hr>
@@ -20,9 +20,7 @@
 <h3>Description</h3>
 <hr>
 <p align="justify">
-	The Fitness Tracking API  project intend  to develop  a user-friendly fitness tracking API using the Django framework. 
-
-This API will provide a comprehensive set of endpoints that allow users to track and manage their fitness-related data, such as creating and managing workouts, adding exercises to workouts, and tracking their progress over time.
+	This Fitness Tracking API built with Django framework is designed to  provide a comprehensive set of endpoints that allow users to track and manage their fitness-related data, such as creating and managing workouts, adding exercises to workouts, and tracking their progress over time.
 
 By offering a standardized and efficient way to access and manage fitness data, the API will empower developers to create a wide range of fitness applications and services.
 </p>
