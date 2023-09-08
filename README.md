@@ -30,7 +30,7 @@ By offering a standardized and efficient way to access and manage fitness data, 
 The purpose of building this fitness tracking API with Django is to provide a strong and expandable  platform for managing and analyzing fitness-related data. This API serves several key reasons:
 
 
-1.	User Empowerment: Such an API empowers users to take control of their fitness journey. It allows them to record and monitor their workouts, making it easier to set and achieve fitness goals.
+1.	User Empowerment: This API will enable users to take control of their fitness journey. It allows them to record and monitor their workouts, making it easier to set and achieve fitness goals.
 
 
 2.	Customization: Users can create personalized workout routines by adding specific exercises, repetitions, and sets tailored to their fitness objectives. This level of customization enhances the effectiveness of their training.
@@ -53,7 +53,7 @@ The purpose of building this fitness tracking API with Django is to provide a st
 </p>
 
 <p align="justify">
-    Furthermore,  building a fitness tracking API with Django focused on workout tracking, exercise management, and progress monitoring empowers users to take charge of their fitness journeys. It provides customization, data-driven insights, and accessibility, all contributing to more effective and enjoyable workouts, as well as facilitating research in the fitness and healthcare domains.
+    Furthermore,  building a fitness tracking API with Django focused on workout tracking, exercise management, and progress monitoring enables users to take charge of their fitness journeys. It provides customization, data-driven insights, and accessibility, all contributing to more effective and enjoyable workouts, as well as facilitating research in the fitness and healthcare domains.
 </p>
 
 <h3>Preview</h3>
@@ -147,7 +147,7 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 
 <h3>Improvements</h3>
 <p>
-	<i> Generally,  I will just add some bug fixes/improvements from time to time - anything that I will just need.</i>
+	<i> Generally,  I will just add some bug fixes/improvements from time to time </i>
 </p>	
 <hr>
 <h3>Contributing</h3>
@@ -185,6 +185,11 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
         <i>README.md Unless otherwise noted, the software in this repository is licensed under the [MIT] license.</i>
 </p>
 <hr>
+
+<h3> Author</h3>
+<ul>
+<li>Name: Nathaniel Emenike </li>
+</ul>
 
 <h3>Linkedin</h3>
 
