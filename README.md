@@ -30,7 +30,7 @@ By offering a standardized and efficient way to access and manage fitness data, 
 The purpose of building this fitness tracking API with Django is to provide a strong and expandable  platform for managing and analyzing fitness-related data. This API serves several key reasons:
 
 
-1.	User Empowerment: This API will enable users to take control of their fitness journey. It allows them to record and monitor their workouts, making it easier to set and achieve fitness goals.
+1.	User Empowerment: This API will empower users to take control of their fitness journey. It allows them to record and monitor their workouts, making it easier to set and achieve fitness goals.
 
 
 2.	Customization: Users can create personalized workout routines by adding specific exercises, repetitions, and sets tailored to their fitness objectives. This level of customization enhances the effectiveness of their training.
