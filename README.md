@@ -94,22 +94,32 @@ The purpose of building this fitness tracking API with Django is to provide a st
 
 <h2>Installation</h2>
 
-Clone the repository to your local machine. git clone https://github.com/your-username/Fitness_Tracking_API.git
+<h4> Clone the repository to your local machine</h4>
+
+git clone https://github.com/your-username/Fitness_Tracking_API.git
 
 
-Set up the database.
+<h4>Set up the database</h4>
+
 
 python manage.py makemigrations
 
 python manage.py migrate
 
-Create a superuser.
+<h4>Create a superuser</h4>
+
+
 python manage.py createsuperuser
 
-Run the development server.
+
+<h4>Run the development server</h4>
+
+
 python manage.py runserver
 
+
 The API will be accessible at http://localhost:8000/ by default.
+
 
 <h2>Usage </h2>
 
