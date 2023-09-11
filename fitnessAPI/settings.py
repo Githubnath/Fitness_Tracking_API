@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-fpt3wmgd&no&9b-9qle_2ec5guc5!05&ycb1c0$h#-m0_^x+9b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fitapi.emenikenath.com.ng']
 
 
 # Application definition
@@ -33,7 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'fitness',
     'rest_framework',
-    'rest_framework.TokenAuthentication'
+    'rest_framework.authtoken',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -86,11 +86,10 @@ WSGI_APPLICATION = 'fitnessAPI.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'https://www.pythonanywhere.com/user/EngrNath12345/consoles/30154625/'),
-        'HOST': '',
-        'PORT': '',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
@@ -132,3 +131,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
