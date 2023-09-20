@@ -6,7 +6,7 @@
 <hr>
 
 <ul>
-<li><b>Demo</b> - click <a href="https:youtu.be/uwYHgeGOwlc?si=jAIYV8tTga9pqUWu//"><b>here </b></a>
+<li><b>Demo</b> - click <a href="https://youtu.be/uwYHgeGOwIc?si=jAIYV8tTga9pqUWu"><b>here </b></a>
 <ul>
 <li><b>Login:</b>adminemenikefitness2023</li>
 </ul>
