@@ -6,12 +6,9 @@
 <hr>
 
 <ul>
-<li><b>Demo</b> - click <a href="https://"><b>here </b></a>
+<li><b>Demo</b> - click <a href="https:youtu.be/uwYHgeGOwlc?si=jAlYV8tTga9pqUWu//"><b>here </b></a>
 <ul>
-<li><b>Login:</b> admin</li>
-<li><b>Password/LockPassword:</b> admin</li>
-</ul>
-</li>
+<li><b>Login:</b>adminemenikefitness2023</li>
 </ul>
 
 <h3>Description</h3>
@@ -145,13 +142,6 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 </li>
 </ul>
 
-<h3>Used packages</h3>
-<ul>
-<li><a href="https://github.com/krzysiekpiasecki/Symfonator">Symfonator</a> <small>(Ui)</small></li>
-<li><a href="https://github.com/mogilvie/EncryptBundle">EncryptBundle</a> <small>(Core for passwords module)</small></li>
-<li><a href="https://github.com/furcan/IconPicker">Icon Picker</a> <small>(Icon picker for Notes module)</small></li>
-</ul>
-
 <h2>Special thanks to</h2>
 <ul>
 	<li><a href="https://github.com/lomsey41">Salome Bassey</a> - For  her  technical  support
@@ -179,19 +169,6 @@ DELETE /exercises/{id}/: Deletes a specific exercise.
 
 <ul>
         <li><a href="https://www.twitter.com/EngrNath3">Emenike Nathaniel</a> - Author's  Twitter Handle
-</ul>
-
-
-<h3>Blog</h3>
-
-<ul>
-        <li><a href="https://emenikeblog.hashnode.dev/personal-management-system">Blog</a> - Project blog article
-</ul>
-
-<h3>Project</h3>
-
-<ul>
-        <li><a href="https://githubnath.github.io//">Project</a> - Portfolio project
 </ul>
 
 <h3>Email</h3>
